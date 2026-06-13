@@ -1,11 +1,19 @@
-# Cosmic ATT — asset statici (immagini)
+﻿# Cosmic ATT — asset statici (storage)
 
-Immagini (stimoli sperimentali e elementi di interfaccia) dello studio scientifico **Cosmic ATT** di Alessia Lorenzi.
+Immagini (stimoli sperimentali e grafica UI) per lo studio scientifico **Cosmic ATT**
+di Alessia Lorenzi.
 
-© 2026 Alessia Lorenzi — **Tutti i diritti riservati.**
+(c) 2026 Alessia Lorenzi — **Tutti i diritti riservati.**
+Questo materiale fa parte di una ricerca scientifica. Non è concesso alcun diritto di
+utilizzo, copia, modifica, ridistribuzione o riuso, in tutto o in parte, senza
+autorizzazione scritta dell'autrice. La presenza in questo repository pubblico serve
+unicamente alla distribuzione tecnica (CDN jsDelivr) per l'applicazione dello studio.
 
-Questi file sono materiale di una ricerca scientifica in corso. Non è concesso
-alcun diritto di utilizzo, copia, riproduzione, modifica, ridistribuzione o riuso,
-in tutto o in parte, senza autorizzazione scritta dell'autrice. La presenza in
-questo repository pubblico ha l'unico scopo della distribuzione tecnica via CDN
-(jsDelivr) per l'applicazione web dello studio. Nessun consenso all'uso è implicito.
+## Crediti e fonti delle immagini
+Alcune immagini provengono da fonti pubbliche e istituzionali — tra cui **NASA, ESA,
+STScI (Hubble / James Webb Space Telescope)** e simili — e sono utilizzate
+**esclusivamente a fini di ricerca scientifica, in modo NON commerciale**. I relativi
+crediti/attribuzioni sono indicati **nell'applicazione dello studio**, nei punti in cui
+le immagini sono mostrate. Altre immagini sono generate tramite IA o realizzate
+dall'autrice. I diritti sui materiali originali restano dei rispettivi proprietari;
+nessun uso commerciale è autorizzato.
